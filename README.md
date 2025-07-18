@@ -1,7 +1,7 @@
 # EV_Market_Segmentation_Feynn_Labs
 EV_Market_Segmentation_Feynn_Labs (Real world Market Analysis)
 <h2>The Rise of Electronic Vehicles</h2>
-![Demographic Dataset]([https://raw.githubusercontent.com/username/repo-name/main/assets/demographic_dataset.png](https://github.com/user-attachments/assets/525a8e32-7d37-4002-a684-2e4100ab3818))
+![Demographic Dataset](https://github.com/user-attachments/assets/525a8e32-7d37-4002-a684-2e4100ab3818)
 
  https://github.com/user-attachments/assets/525a8e32-7d37-4002-a684-2e4100ab3818
 <h2>Demographic Dataset: Person's status vs Salary</h2>
